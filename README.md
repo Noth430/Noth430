@@ -107,9 +107,8 @@ Meu objetivo é me tornar um especialista em desenvolvimento full stack e contri
 ---
 
 ### 🔗 Minhas Redes Sociais
-* [GitHub]([text](https://github.com/Noth430?tab=overview&from=2024-11-01&to=2024-11-02))
-* [Twitch]()
-* [Instagram]([text](https://www.instagram.com/riquex2s/))
-* [LinkedIn](link-do-linkedin)
+* [GitHub](https://github.com/Noth430)
+* [Instagram](https://www.instagram.com/riquex2s/)
+
 
 ---
